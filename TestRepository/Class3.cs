@@ -8,5 +8,6 @@ namespace TestRepository
 {
     class Class3
     {
+        bool a = true;
     }
 }
